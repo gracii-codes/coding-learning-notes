@@ -2,7 +2,8 @@
 
 ### What will you find: 
 
-Here you will find all my coding session notes. What I learned set up in different folders and files. 
+Here you will find all my coding session notes. What I learned set up in different folders and files. From different sources. 
+
 
 ##### (🌱 Growth is a Winding Path, not a Straight Line)
 
